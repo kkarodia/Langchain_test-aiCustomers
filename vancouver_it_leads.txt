@@ -1,0 +1,48 @@
+--- Leads Output ---
+Timestamp: 2026-02-12 10:57:10
+
+{
+  "leads": [
+    {
+      "company": "Bella Florist Vancouver",
+      "contact_info": "Not explicitly listed on generic directories. Further search required for phone/address.",
+      "email": "Not found",
+      "summary": "Bella Florist is a local Vancouver florist shop that likely relies on manual order management, inventory tracking, and customer relationship management. They could benefit from IT services such as a point-of-sale (POS) system, inventory management software, or a customer database to streamline operations and improve efficiency.",
+      "outreach_message": "Hi Bella Florist team,\n\nI noticed your beautiful floral arrangements and wanted to reach out to see if you’re using any digital tools to manage orders, inventory, or customer relationships. Many local florists in Vancouver find that a simple POS system or inventory management software can save time and reduce manual work. If you’re open to exploring options, I’d love to chat about how we can help streamline your operations. Let me know if you’re available for a quick call!\n\nBest regards,\n[Your Name]",
+      "tools_used": ["search_and_scrape"]
+    },
+    {
+      "company": "The Fish Shack",
+      "contact_info": "1026 Granville Street, Vancouver, BC V6Z 1L5",
+      "email": "Not explicitly listed. General inquiries may be directed via their website or social media.",
+      "summary": "The Fish Shack is a restaurant in downtown Vancouver that likely handles reservations, orders, and customer feedback manually or through basic systems. They could benefit from IT services such as a restaurant management system, online reservation tools, or a customer feedback platform to enhance efficiency and customer experience.",
+      "outreach_message": "Hi The Fish Shack team,\n\nI came across your restaurant and loved the vibe! I wanted to reach out to see if you’re using any digital tools to manage reservations, orders, or customer feedback. Many restaurants in Vancouver find that a restaurant management system or online reservation tool can save time and improve the dining experience for customers. If you’re open to it, I’d love to discuss how we can help streamline your operations. Let me know if you’re available for a quick chat!\n\nBest regards,\n[Your Name]",
+      "tools_used": ["search_and_scrape", "search_web"]
+    },
+    {
+      "company": "Vancouver Physiotherapy & Sports Clinic",
+      "contact_info": "+1 604-606-1420, info@citysportsphysio.com",
+      "email": "info@citysportsphysio.com",
+      "summary": "Vancouver Physiotherapy & Sports Clinic offers physiotherapy, massage, and personal training services. They likely manage patient records, appointments, and billing manually or through basic software. IT services such as electronic health records (EHR), appointment scheduling software, or a secure patient portal could significantly improve their efficiency and patient experience.",
+      "outreach_message": "Hi Vancouver Physiotherapy & Sports Clinic team,\n\nI hope this message finds you well! I wanted to reach out to see if you’re currently using any digital tools to manage patient records, appointments, or billing. Many clinics in Vancouver find that electronic health records (EHR) or appointment scheduling software can streamline operations and improve patient care. If you’re open to exploring options, I’d love to discuss how we can support your clinic’s needs. Let me know if you’re available for a quick call!\n\nBest regards,\n[Your Name]",
+      "tools_used": ["search_and_scrape", "search_web"]
+    },
+    {
+      "company": "Mountain Equipment Co-op (MEC) Vancouver",
+      "contact_info": "111 E 2nd Ave, Vancouver, BC. Website: www.mec.ca/vancouver",
+      "email": "Not explicitly listed. General inquiries may be directed via their website.",
+      "summary": "MEC Vancouver is a retail store specializing in outdoor gear and equipment. As a retail business, they likely manage inventory, sales, and customer data through a combination of systems. IT services such as advanced inventory management, e-commerce integration, or customer relationship management (CRM) tools could enhance their operations and customer experience.",
+      "outreach_message": "Hi MEC Vancouver team,\n\nI’ve always admired MEC’s commitment to sustainability and outdoor adventure! I wanted to reach out to see if you’re using any digital tools to manage inventory, sales, or customer relationships. Many retail businesses in Vancouver find that advanced inventory management or CRM tools can streamline operations and improve customer satisfaction. If you’re open to it, I’d love to discuss how we can support your store’s needs. Let me know if you’re available for a quick chat!\n\nBest regards,\n[Your Name]",
+      "tools_used": ["search_and_scrape", "search_web"]
+    },
+    {
+      "company": "Purebread Bakery Vancouver",
+      "contact_info": "+1 604-938-3013, 1040 Millar Creek Rd, Vancouver, BC",
+      "email": "Not explicitly listed. General inquiries may be directed via their website or phone.",
+      "summary": "Purebread Bakery is an artisanal bakery and café in Vancouver known for its baked goods and coffee. They likely manage orders, inventory, and customer interactions manually or through basic systems. IT services such as a point-of-sale (POS) system, inventory management software, or an online ordering platform could help streamline their operations and enhance customer experience.",
+      "outreach_message": "Hi Purebread Bakery team,\n\nYour pastries and coffee look absolutely amazing! I wanted to reach out to see if you’re using any digital tools to manage orders, inventory, or customer interactions. Many bakeries in Vancouver find that a POS system or inventory management software can save time and improve efficiency. If you’re open to exploring options, I’d love to chat about how we can help streamline your operations. Let me know if you’re available for a quick call!\n\nBest regards,\n[Your Name]",
+      "tools_used": ["search_and_scrape", "search_web"]
+    }
+  ]
+}
+
